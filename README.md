@@ -10,7 +10,18 @@ DIY Bluetooth speaker kit with FM radio, recording function, and LED spectrum vi
 - **Functions:** Bluetooth audio, FM radio (auto-scan + station memory), voice recording via onboard MIC, 12-color LED spectrum visualizer, TF card / AUX / USB playback, IR remote control
 - **Output:** 3W stereo speakers
 - **Key components soldered:** 4x LM358 op-amp ICs (DIP-8, socketed), 12x 3mm LEDs, 20x metal-film resistors, 1N4148 diodes, electrolytic + monolithic capacitors, 1Mohm potentiometer, electret microphone, DC-005 power socket, AUX jack, power switch
-- **Tools used:** [fill in later]
+- **Tools used:**
+- [ ] YIHUA 862BD+ Soldering and Rework Station
+- [ ] MAIYUM 63-37 Rosin Core Solder Wire 0.8mm
+- [ ] KL-533 Liquid Flux
+- [ ] Thermaltronics TMT-TC-2 Tip Tinner
+- [ ] TOWOT Solder Wick Braid
+- [ ] Hakko CHP 0.787 in. Medium Cutter
+- [ ] Hakko CHP PN-2007 Long Nose Pliers
+- [ ] Magnetic Helping Hands
+- [ ] ENGINEER Solder Sucker Professional Grade Aluminum Desoldering Pump SS-03 
+- [ ] Isopropyl Alcohol
+- [ ] ESD Brush
 
 ## Build photos
 
