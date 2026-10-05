@@ -83,11 +83,16 @@ https://github.com/user-attachments/assets/12604e78-049f-454c-9fcb-a891ff712c82
 - [ ] Powers on via USB-DC005
 - [ ] FM radio: auto-scan finds stations, memory retains presets after power-off
 - [ ] Bluetooth pairs and plays audio
-- [ ] Recording function via MIC
 - [ ] LED spectrum responds to audio
+- [ ] Tested all operations of the FM module and made sure all mechanical buttons worked for the functions advertised
 
 ## Troubleshooting log
-- [fill in as you build]
+- [ ] Verified the resistors values using a DMM and adjusted the correct testing parameter to read the values
+- [ ] Tested each ICs socket leg are connected on the under side of the PCB using continuity mode on my DMM
+- [ ] Checked all my wire splices and joined wires, and add shrink tube in some areas to prevent a short with other components in the enclosure
 
 ## What I learned
-[fill in when done]
+- [ ] During my soldering assembly, I've learned with later solder points to be more generous with solder to make my solder points one step closer to perfect
+- [ ] learned to use the mid area of the iron top to ensure maximum surface contact for better heat transfer
+- [ ] learned to be caution with ICs when placing in their soldered ICs sockets and discharged myself using and ESD bracelet because ICs are extremely sensitive to electrostatic discharge
+- [ ] learned to be observant when installing diodes or unilateral electronic devices, by looking for markings on the diodes and or seeing which leg was shorter like cathode side
