@@ -3,7 +3,7 @@
 DIY Bluetooth speaker kit with FM radio, recording function, and LED spectrum visualizer. Built from a through-hole soldering practice kit.
 
 ![Finished speaker, front view](photos/07-finished-powered-on.jpg)
-<video src="photos/fm-radio-demo.mp4" width="640" controls></video>
+<video src="photos/fm-radio-demo.mov" width="640" controls></video>
 ## Kit details
 - **Kit:** BANRIA DIY Bluetooth Speaker Kit (FM radio soldering practice kit)
 - **Build type:** through-hole hand soldering, ~130+ solder joints
