@@ -23,7 +23,8 @@ https://github.com/user-attachments/assets/12604e78-049f-454c-9fcb-a891ff712c82
 - [ ] Hakko CHP 0.787 in. Medium Cutter
 - [ ] Hakko CHP PN-2007 Long Nose Pliers
 - [ ] Magnetic Helping Hands
-- [ ] ENGINEER Solder Sucker Professional Grade Aluminum Desoldering Pump SS-03 
+- [ ] ENGINEER Solder Sucker Professional Grade Aluminum Desoldering Pump SS-03
+- [ ] Magnifying Glass with Light Square Magnifier Desk Lamp 10X Close Up Work for Desktop Bench 
 - [ ] Isopropyl Alcohol
 - [ ] ESD Brush
 
