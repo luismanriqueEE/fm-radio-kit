@@ -38,7 +38,46 @@ https://github.com/user-attachments/assets/12604e78-049f-454c-9fcb-a891ff712c82
 ![Finished, powered on](photos/07-finished-powered-on.jpg)
 
 ## Bill of materials
-Per the kit's included component list (38 line items: ICs, LEDs, resistors, capacitors, hardware, acrylic enclosure).
+| #  | Component                  | PCB marker             | Spec         | Qty |
+|----|----------------------------|------------------------|--------------|-----|
+| 1  | LM358 IC                   | U1–U4                  | DIP-8        | 4   |
+| 2  | IC socket                  | U1–U4                  | DIP-8        | 4   |
+| 3  | 3mm pink LED               | D2–D5                  | 2-pin        | 4   |
+| 4  | 3mm blue LED               | D6–D9                  | 2-pin        | 4   |
+| 5  | 3mm green LED              | D10–D13                | 2-pin        | 4   |
+| 6  | 1N4148 diode               | D1, D22                | DO-35        | 2   |
+| 7  | Monolithic capacitor       | C1, C3                 | 0.1uF (104)  | 2   |
+| 8  | Electrolytic capacitor     | C4                     | 4.7uF        | 1   |
+| 9  | Electrolytic capacitor     | C2                     | 100uF        | 1   |
+| 10 | Metal film resistor        | R7, R8, R11, R12       | 100 ohm      | 4   |
+| 11 | Metal film resistor        | R15, R16               | 200 ohm      | 2   |
+| 12 | Metal film resistor        | R5, R13, R14, R17, R18 | 510 ohm      | 5   |
+| 13 | Metal film resistor        | R2, R9, R10            | 1K ohm       | 3   |
+| 14 | Metal film resistor        | R28                    | 2K ohm       | 1   |
+| 15 | Metal film resistor        | R6                     | 5.1K ohm     | 1   |
+| 16 | Metal film resistor        | R1, R4, R25            | 10K ohm      | 3   |
+| 17 | Metal film resistor        | R3                     | 1M ohm       | 1   |
+| 18 | Potentiometer              | PR1                    | 1M ohm (105) | 1   |
+| 19 | Electret microphone        | MIC                    | 9.7mm        | 1   |
+| 20 | PH2.0-2P red/black wire    | —                      | 15cm         | 3   |
+| 21 | Red/black speaker wire     | CZ                     | 10cm         | 1   |
+| 22 | Red antenna wire           | —                      | 15cm         | 1   |
+| 23 | Bluetooth receiver module  | —                      | preassembled | 1   |
+| 24 | Infrared remote controller | —                      | —            | 1   |
+| 25 | Speaker                    | —                      | 4 ohm, 3W    | 2   |
+| 26 | FM antenna                 | —                      | —            | 1   |
+| 27 | DC-005 power socket        | —                      | —            | 1   |
+| 28 | Power switch (red/black)   | —                      | —            | 1   |
+| 29 | USB to DC-005 power wire   | —                      | —            | 1   |
+| 30 | AUX audio socket           | —                      | —            | 1   |
+| 31 | AUX audio wire             | —                      | —            | 1   |
+| 32 | Transparent acrylic panel  | —                      | —            | 6   |
+| 33 | Nylon standoff             | —                      | M3 × 50mm    | 4   |
+| 34 | Nylon standoff             | —                      | M3 × 28mm    | 2   |
+| 35 | Screw                      | —                      | M3 × 12mm    | 4   |
+| 36 | Screw                      | —                      | M3 × 8mm     | 18  |
+| 37 | Nut                        | —                      | M3           | 10  |
+| 38 | PCB                        | —                      | HU-075A      | 1   |
 
 ## Testing
 - [ ] Powers on via USB-DC005
